@@ -1,0 +1,131 @@
+body{
+	background-image:url("img/background-body.jpg");
+}
+
+::-webkit-input-placeholder {
+   color: #361614;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #361614;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #361614;  
+}
+
+:-ms-input-placeholder {  
+   color: #361614;  
+}
+
+#form{
+	width:960px;
+	height:660px;
+	background-image:url("img/background-form.png");
+	margin:auto;
+	font-family:"comic sans ms";
+}
+
+input[type='text']{
+	background:transparent;
+	border:none;
+	font-family:"comic sans ms";
+}
+
+input[type='submit']{
+	background:transparent;
+	border:none;
+	font-family:"comic sans ms";
+}
+
+textarea{
+	background:transparent;
+	border:none;
+	font-family:"comic sans ms";
+}
+
+#nama{
+	margin-left:500px;
+	margin-top:80px;
+	width:200px;
+	height:30px;
+	color:#361614;
+	font-size:18px;
+}
+
+#checkbox{
+	margin-left:500px;
+	margin-top:20px;
+	color:#E1864D;
+	
+}
+
+#judul{
+	margin-left:500px;
+	margin-top:25px;
+	width:200px;
+	height:30px;
+	color:#361614;
+	font-size:18px;
+}
+
+#isi{
+	margin-left:500px;
+	margin-top:50px;
+	width:310px;
+	color:#361614;
+	font-size:18px;
+	height:180px;
+	font-family:"Arial";
+}
+
+
+#alamat{
+	margin-left:500px;
+	margin-top:42px;
+	width:200px;
+	height:30px;
+	color:#361614;
+	font-size:18px;
+}
+
+
+#telp{
+	margin-left:500px;
+	margin-top:37px;
+	width:200px;
+	height:30px;
+	color:#361614;
+	font-size:18px;
+}
+
+#kirim{
+	margin-left:499px;
+	margin-top:31px;
+	width:100px;
+	height:50px;
+}
+
+#kirim:hover{
+	background-image:url("img/send-hover.png");
+}
+
+
+/*=========================================*/
+
+#keterangan{
+	font-family:"Berlin Sans FB";
+	padding:20px;
+	font-size:34px;
+	color:white;
+	float:left;
+	position:absolute;
+	width:420px;
+	word-wrap:break-word;
+}
+
+#about{
+	font-family:"Times New Roman";
+	color:#E1864D;
+	font-size:18px;
+}

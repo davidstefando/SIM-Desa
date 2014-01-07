@@ -1,0 +1,170 @@
+.leftbar{
+	height:100%;
+	background-color:#e1e1e1;
+}
+
+.gray{
+	height:100%;
+}
+
+.content{
+	background-color:#ffffff;
+	margin-top:20px
+}
+
+.user{
+	margin-top:40px;
+	border-bottom:1px;
+	background-color:#e1e1e1;
+}
+
+.navbar-inverse{
+	background-color:#000000;
+}
+
+
+.light-blue {
+	background:#8ba4b7;
+}
+.white {
+	background:#fff;
+	border:#ccc 1px solid;
+}
+.blue-white {
+	background:#EFF4FF;
+}
+.blue-white .widget-head {
+	background:#e3e7f1 !important;
+	color:#576074 !important;
+}
+.blue-white h3, .blue-white h3 i {
+	color:#576074 !important;
+}
+.gray {
+	background:#e8e8e8;
+}
+.light-gray {
+	background:#eee;
+}
+.gray .board-widgets-botttom a {
+	background:#cecece;
+	color:#333;
+}
+.brown {
+	background:#b51c44;
+}
+.blue-violate {
+	background:#5b3ab6;
+}
+.dark-yellow {
+	background:#e88a05;
+}
+.magenta {
+	background:#a300aa;
+}
+.blue {
+	background:#3498DB;
+}
+.orange {
+	background:#ce4b27;
+}
+.bondi-blue {
+	background:#0093a8;
+}
+.green {
+	background:#009600;
+}
+
+/*Metro Navigation*/
+.metro-sidenav {
+	text-align:center;
+	margin-left:15px !important;
+	margin-top:200px !important;
+
+}
+.metro-sidenav li {
+	border:none !important;
+	box-shadow:none !important;
+	width:82px;
+	height:82px;
+	display:inline-block;
+	margin:0px 15px 15px 0px;
+	float: left;
+	position:relative;
+	list-style: none;
+	word-wrap:break-word;
+}
+.metro-sidenav li a {
+	box-shadow:none !important;
+	width:82px;
+	height:82px;
+	padding:0px !important;
+	display:block;
+	text-decoration:none;
+}
+.metro-sidenav li a i {
+	font-size:30px !important;
+	display:block !important;
+	text-align:center;
+	padding:10px 0 10px 0 !important;
+	width:auto !important;
+	color:#fff !important;
+}
+.metro-sidenav li a span {
+	display:block;
+	text-align:center;
+	padding:15px 5px !important;
+	font-size:12px !important;
+	color:#eee !important;
+}
+.metro-sidenav li a.brown:hover {
+	background:#7a0423;
+}
+.metro-sidenav li a.orange:hover {
+	background:#983114;
+}
+.metro-sidenav li a.bondi-blue:hover {
+	background:#066b79;
+}
+.metro-sidenav li a.green:hover {
+	background:#306630;
+}
+.metro-sidenav li a.blue-violate:hover {
+	background:#2c1470;
+}
+.metro-sidenav li a.dark-yellow:hover {
+	background:#b06700;
+}
+.metro-sidenav li a.magenta:hover {
+	background:#7f0184;
+}
+.metro-sidenav li a.blue:hover {
+	background:#01316c;
+}
+/*==============================*/
+
+
+.notify-tip {
+	display:inline-block !important;
+	background: #F60;
+	color:#fff;
+	position:absolute;
+	top:0px;
+	right:0px;
+	padding:3px 5px;
+}
+.btn-notification {
+	padding:0px !important;
+	height:50px;
+	width:50px;
+	line-height:50px;
+	font-size:24px;
+	text-align:center;
+	background:none !important;
+	color:#CCC;
+}
+/*//////////////////////////////////////////////////////////////////////////*/
+
+#formSetting{
+	margin-left:20%;
+}

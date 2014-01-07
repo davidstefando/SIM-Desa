@@ -1,0 +1,154 @@
+/*===========================================
+									Artikel
+============================================
+*/
+
+#container{
+	width:960px;
+	margin:auto;
+	overflow:hidden;
+	min-height:768px;
+	border-radius:30px 0px 0px 0px;
+	
+}
+
+#header{
+	width:960px;
+	height:330px;
+	background-image:url("./img/header_artikel.png");
+}
+
+#subtitle{
+	width:600px;
+	position:absolute;
+	margin-top:100px;
+	margin-left:20px;
+	font-family:"Arial";
+	font-size:24px;
+	color:white;
+	word-wrap: break-word;
+}
+
+/* ==================menubar==============*/
+#menubar{
+	padding:12px;
+	position:absolute;
+	margin-top:270px;
+	width:960px;
+	height:50px;
+}
+
+ul li a{
+	color:white;
+	text-decoration:none;
+}
+
+ul li a:hover{
+	color:red;
+	text-decoration:none;
+}
+
+a#home{
+	margin-top:-40px;
+	margin-right:40px;
+	float:right;
+	font-family:"arial";
+	font-size:24px;
+	color:white;
+	text-decoration:none;
+}
+a#home:hover{
+	margin-top:-40px;
+	margin-right:40px;
+	float:right;
+	font-family:"arial";
+	font-size:24px;
+	color:red;
+}
+
+
+
+#search{
+	padding-right:25px;
+	padding-left:5px;
+	border-radius:10px 10px 10px 10px;
+	
+}
+
+#search-button{
+	width:20px;
+	position:absolute;
+	margin:2px 0px 0px -25px;
+}
+
+/*====================================*/
+
+#kategori{
+	width:310px;
+	float:right;
+	min-height:1300px;
+	background-image:url("./img/kategori_artikel.png");
+	background-repeat:y;
+}
+
+#kategori-content{
+	margin:auto;
+	width:250px;
+	word-wrap: break-word;
+}
+
+
+/*====================================*/
+
+#content{
+	width:630px;
+	padding:0px 10px 0px 10px;
+	
+}
+
+.artikel{
+	width:600px;
+	height:200px;
+	margin:auto;
+	margin-left:10px;
+	word-wrap: break-word;
+	float:left;
+}
+
+.judul{
+	font-family:"arial";
+	font-size:24px;
+}
+
+.penulis{
+	font-family:"calibri";
+	font-size:18px;	
+}
+
+.tanggal{
+	font-family:"arial";
+	font-size:12px;
+	float:right;
+	color:green;
+}
+
+.readMore a{
+	text-decoration:none;
+	float:right;
+}
+
+.readMore a:hover{
+	text-decoration:none;
+	float:right;
+	color:green;
+}
+
+#pagination{
+	float:right;
+	margin-right:50px;
+}
+
+/*=======================================*/
+
+
+
