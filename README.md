@@ -1,4 +1,4 @@
-SIM-Desa
+SIM-Desa(Sistem Informasi Managemen Desa)
 ========
 
 Sistem Informasi Management untuk Desa
